@@ -1,5 +1,4 @@
 *.app
 .vscode/*
-test.cpp
 *.out
-catch.hpp
+docs/*

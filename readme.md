@@ -8,4 +8,4 @@ with openFrameworks)
 for now, I want to get a feel of the math involved
 
 * Perhaps linear algera isn't the best name to give this library since I'll only 
-add functionality required for NeuralNets as needed.
+add functionality required for NeuralNets (as needed).
